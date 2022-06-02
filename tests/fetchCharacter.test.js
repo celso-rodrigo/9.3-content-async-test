@@ -5,4 +5,4 @@ describe('Teste a função fetchCharacter', () => {
   it('', () => {});
 });
 
-// Iniciado exercício.
+// Iniciado exercício...
